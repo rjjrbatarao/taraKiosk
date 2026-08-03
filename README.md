@@ -27,7 +27,7 @@ https://rjjrbatarao.github.io/menu
 - do not start yet download as many games as you want make sure to remove your acccount later as playstore requires google account
 
 ## Customizations
-Open this link it contains the loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io
+Open this link it contains the loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io </br>
 Open this link for esp32 library https://github.com/rjjrbatarao/taraArduinoLib
 
 ## Todo
