@@ -25,5 +25,13 @@ https://rjjrbatarao.github.io/menu
 - scan and connect bluetooth make sure esp32 is flashed and powered on
 - add whitelist apps
 
+## Customizations
+Open this link it contains the loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io
+
+## Todo
+- printer.js cleaner import js library for accessing printing capabilities
+- bridge.js cleaner import js library for the vending operation
+
+
   
 
