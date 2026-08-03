@@ -28,9 +28,9 @@ https://rjjrbatarao.github.io/menu
 
 ## Customizations
 Open this link it contains the sample loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io </br>
-Open this link for esp32 library https://github.com/rjjrbatarao/taraArduinoLib
-The Game menu and Lockscreen can be deployed on github pages or any free static site server
-Customize and make your own personalized Game menu. 
+Open this link for esp32 library https://github.com/rjjrbatarao/taraArduinoLib </br>
+The Game menu and Lockscreen can be deployed on github pages or any free static site server </br>
+Customize and make your own personalized Game menu.  </br>
 
 ## Todo
 - printer.js cleaner import js library for accessing printing capabilities
