@@ -34,7 +34,7 @@ Customize and make your own personalized Game menu.  </br>
 
 ## Todo
 - printer.js cleaner import js library for accessing printing capabilities
-- bridge.js cleaner import js library for the vending operation
+- bridge.js cleaner import js library for the tablet vending operation
 
 
   
