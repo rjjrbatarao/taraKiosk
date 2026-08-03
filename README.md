@@ -6,7 +6,7 @@ Free Android Kiosk locktask cosu app
 - download the adb-win
 - inside theres install.bat click and when success shows you may now open the app
 - enable all required system permissions
-- allow turning on bluetoot
+- allow turning on bluetooth
 
 # Settings
 - copy this for lockscreen or scan qr
@@ -24,9 +24,11 @@ https://rjjrbatarao.github.io/menu
 - add 6 digit password
 - scan and connect bluetooth make sure esp32 is flashed and powered on
 - add whitelist apps
+- do not start yet download as many games as you want make sure to remove your acccount later as playstore requires google account
 
 ## Customizations
 Open this link it contains the loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io
+Open this link for esp32 library https://github.com/rjjrbatarao/taraArduinoLib
 
 ## Todo
 - printer.js cleaner import js library for accessing printing capabilities
