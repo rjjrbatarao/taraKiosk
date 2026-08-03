@@ -9,13 +9,13 @@ Free Android Kiosk locktask cosu app
 - allow turning on bluetooth
 
 # Settings
-- copy this for lockscreen or scan qr
+- copy this for lockscreen or scan qr (you may customize)
 ```
 https://rjjrbatarao.github.io/loader
 ```
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3335463e-39d4-4a4a-8ed6-3588352327df" />
 
-- copy this for menu or scan qr
+- copy this for menu or scan qr (you may customize)
 ```
 https://rjjrbatarao.github.io/menu
 ```
@@ -27,8 +27,10 @@ https://rjjrbatarao.github.io/menu
 - do not start yet download as many games as you want make sure to remove your acccount later as playstore requires google account
 
 ## Customizations
-Open this link it contains the loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io </br>
+Open this link it contains the sample loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io </br>
 Open this link for esp32 library https://github.com/rjjrbatarao/taraArduinoLib
+The Game menu and Lockscreen can be deployed on github pages or any free static site server
+Customize and make your own personalized Game menu. 
 
 ## Todo
 - printer.js cleaner import js library for accessing printing capabilities
