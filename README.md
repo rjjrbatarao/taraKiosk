@@ -33,6 +33,7 @@ The Game menu and Lockscreen can be deployed on github pages or any free static 
 Customize and make your own personalized Game menu.  </br>
 
 ## Todo
+- blank screen bug ongoing test 
 - printer.js cleaner import js library for accessing printing capabilities
 - bridge.js cleaner import js library for the tablet vending operation
 
