@@ -1,8 +1,11 @@
 # taraKiosk
 Free Android Kiosk locktask cosu app
 
+# Prerequisite 
+Freshly Factory reset Tablet </br>
+Do not add any account after factory reset and make sure adb usb debugging enabled </br>
+
 # How to install 
-- prerequisite Do not add any account after factory reset and make sure adb usb debugging enabled
 - download the adb-win
 - inside theres install.bat click and when success shows you may now open the app
 - enable all required system permissions
