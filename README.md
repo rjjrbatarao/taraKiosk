@@ -4,12 +4,25 @@ Free Android Kiosk locktask cosu app
 # Prerequisite 
 Freshly Factory reset Tablet </br>
 Do not add any account after factory reset and make sure adb usb debugging enabled </br>
+Enable adb usb </br>
 
-# How to install 
+# How to install for Users
 - download the adb-win
-- inside theres install.bat click and when success shows you may now open the app
+- inside theres install-release.bat click and when success shows you may now open the app
 - enable all required system permissions
 - allow turning on bluetooth
+
+# Install For UI developers
+- use the install-debug.bat
+- connect to pc with adb enabled
+- chrome://inspect/#devices
+- You will see the below image
+- click inspect
+- if no device discovered just wait
+<img width="1430" height="637" alt="image" src="https://github.com/user-attachments/assets/4e12f6b7-aa94-401e-bdd0-8fff748c7f68" />
+<img width="910" height="861" alt="image" src="https://github.com/user-attachments/assets/1640ae93-4ec8-498c-a5c1-5cad2f7e1058" />
+
+
 
 # Settings
 - copy this for lockscreen or scan qr (you may customize)
