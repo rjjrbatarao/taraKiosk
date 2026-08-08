@@ -12,18 +12,6 @@ Enable adb usb </br>
 - enable all required system permissions
 - allow turning on bluetooth
 
-# Install For UI developers
-- use the install-debug.bat
-- connect to pc with adb enabled
-- chrome://inspect/#devices
-- You will see the below image
-- click inspect
-- if no device discovered just wait
-<img width="1430" height="637" alt="image" src="https://github.com/user-attachments/assets/4e12f6b7-aa94-401e-bdd0-8fff748c7f68" />
-<img width="910" height="861" alt="image" src="https://github.com/user-attachments/assets/1640ae93-4ec8-498c-a5c1-5cad2f7e1058" />
-
-
-
 # Settings
 - copy this for lockscreen or scan qr (you may customize)
 ```
@@ -42,10 +30,20 @@ https://rjjrbatarao.github.io/menu
 - add whitelist apps
 - do not start yet download as many games as you want make sure to remove your acccount later as playstore requires google account
 
+# Install For UI developers
+- use the install-debug.bat
+- connect to pc with adb enabled
+- chrome://inspect/#devices
+- You will see the below image
+- click inspect
+- if no device discovered just wait
+<img width="1430" height="637" alt="image" src="https://github.com/user-attachments/assets/4e12f6b7-aa94-401e-bdd0-8fff748c7f68" />
+<img width="910" height="861" alt="image" src="https://github.com/user-attachments/assets/1640ae93-4ec8-498c-a5c1-5cad2f7e1058" />
+
 ## Customizations
 Open this link it contains the sample loader and menu folder source code for the lockscreen https://github.com/rjjrbatarao/rjjrbatarao.github.io </br>
 Open this link for esp32 library https://github.com/rjjrbatarao/taraArduinoLib </br>
-The Game menu and Lockscreen can be deployed on github pages or any free static site server </br>
+The Game menu and Lockscreen can be deployed on github pages or any free static site server, study the index.js and script.js</br>
 Customize and make your own personalized Game menu.  </br>
 
 ## Todo
