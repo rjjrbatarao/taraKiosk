@@ -2,6 +2,26 @@
 Free Android Kiosk locktask cosu app
 Alpha Version 1.0 (For testing)
 
+# Features
+- app data & cache clearing + google account clearing aka Deepfreeze
+- delayed deepfreeze developer preference editable in my repo https://github.com/rjjrbatarao/rjjrbatarao.github.io loader folder
+- turbo and battery saving app launching
+- recent apps clearable
+- app filter by letter
+- quick launcher looping carousel
+- esp32 smartcharging reboot recovery (anti deadbat)
+- always display on game menu
+- editable game lockscreen and game menu visit my repo https://github.com/rjjrbatarao/rjjrbatarao.github.io /menu and /loader folder
+- whitelistable apps choose what to display in the game menu
+- esp32 auto pairing with filter for fast pairing
+- javascript bridge for printing and tablet kiosk https://github.com/rjjrbatarao/taraBridge note not updated yet
+- docs will be released for full js bridge api's lots of bridge features to use.
+- built in web server port on ip:8080 not yet documented for other future use
+- esp32 to webserver bridging
+- esp32 to webview bridging for more complex kiosk cash terminals
+- game menu themes ongoing here https://github.com/rjjrbatarao/taraThemes
+
+
 # Prerequisite 
 Freshly Factory reset Tablet </br>
 Do not add any account after factory reset and make sure adb usb debugging enabled </br>
