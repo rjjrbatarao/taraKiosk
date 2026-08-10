@@ -17,9 +17,9 @@ Alpha Version 1.0 (For testing)
 - javascript bridge for printing and tablet kiosk https://github.com/rjjrbatarao/taraBridge note not updated yet
 - docs will be released for full js bridge api's lots of bridge features to use.
 - built in web server port on ip:8080 not yet documented for other future use
-- esp32 to webserver bridging
+- esp32 to webserver bridging for other use case
 - esp32 to webview bridging for more complex kiosk cash terminals
-- game menu themes ongoing here https://github.com/rjjrbatarao/taraThemes
+- editable game menu/lockscreen themes ongoing here https://github.com/rjjrbatarao/taraThemes
 
 
 # Prerequisite 
