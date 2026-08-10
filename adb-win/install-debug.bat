@@ -26,7 +26,7 @@ echo.
 echo --------------------------------------------
 echo 1. Installing APK...
 echo --------------------------------------------
-adb.exe install -r -g "%APK_PATH%"
+adb.exe install -r -g -t "%APK_PATH%"
 
 if %ERRORLEVEL% NEQ 0 (
     echo.
