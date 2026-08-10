@@ -1,5 +1,6 @@
-# taraKiosk Alpha Version
+# taraKiosk 
 Free Android Kiosk locktask cosu app
+Alpha Version 1.0 (For testing)
 
 # Prerequisite 
 Freshly Factory reset Tablet </br>
@@ -47,7 +48,8 @@ The Game menu and Lockscreen can be deployed on github pages or any free static 
 Customize and make your own personalized Game menu.  </br>
 
 ## Todo
-- blank screen bug ongoing test 
+- blank screen bug ongoing fix validation
+- bluetooth not reconnecting ongoing fix validation
 - printer.js cleaner import js library for accessing printing capabilities
 - bridge.js cleaner import js library for the tablet vending operation
 
