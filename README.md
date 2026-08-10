@@ -1,4 +1,4 @@
-# taraKiosk ![Alpha](https://shields.io)
+# taraKiosk Alpha Version
 Free Android Kiosk locktask cosu app
 
 # Prerequisite 
