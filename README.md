@@ -24,6 +24,7 @@ Alpha Version 1.0 (For testing)
 - ads blocker whitelisting
 - native notification sound bridge
 - persistent timer background task
+- send email bridge
 
 # Prerequisite 
 Freshly Factory reset Tablet </br>
