@@ -20,7 +20,10 @@ Alpha Version 1.0 (For testing)
 - esp32 to webserver bridging for other use case
 - esp32 to webview bridging for more complex kiosk cash terminals
 - editable game menu/lockscreen themes ongoing here https://github.com/rjjrbatarao/taraThemes
-
+- ads blocker barckground task
+- ads blocker whitelisting
+- native notification sound bridge
+- persistent timer background task
 
 # Prerequisite 
 Freshly Factory reset Tablet </br>
