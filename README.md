@@ -15,16 +15,18 @@ Alpha Version 1.0 (For testing)
 - whitelistable apps choose what to display in the game menu
 - esp32 auto pairing with filter for fast pairing
 - javascript bridge for printing and tablet kiosk https://github.com/rjjrbatarao/taraBridge note not updated yet
-- docs will be released for full js bridge api's lots of bridge features to use.
 - built in web server port on ip:8080 not yet documented for other future use
 - esp32 to webserver bridging for other use case
 - esp32 to webview bridging for more complex kiosk cash terminals
 - editable game menu/lockscreen themes ongoing here https://github.com/rjjrbatarao/taraThemes
-- ads blocker barckground task
-- ads blocker whitelisting
+- ads blocker initial popup
 - native notification sound bridge
 - persistent timer background task
 - send email bridge
+- esp32 send data to webview
+- new floating icon with timer on expand
+- send sms
+- get gps location
 
 # Prerequisite 
 Freshly Factory reset Tablet </br>
